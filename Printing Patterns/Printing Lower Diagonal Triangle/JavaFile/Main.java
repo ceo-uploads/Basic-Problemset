@@ -10,6 +10,6 @@ class Main {
 
     Triangle tn = new Triangle(number);
 
-    tn.view();
+    tn.view(number);
   }
 }
